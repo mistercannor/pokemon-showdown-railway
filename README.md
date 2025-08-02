@@ -2,7 +2,7 @@
 
 Deploy your own Pokemon Showdown server with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.app/template/example)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/3FwR_S?referralCode=hbN2rY)
 
 ## Setup
 
