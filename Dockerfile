@@ -10,7 +10,7 @@ RUN apt-get update && apt-get install -y \
     && rm -rf /var/lib/apt/lists/*
 
 # Clone the Pokemon Showdown repository
-RUN git clone https://github.com/smogon/pokemon-showdown.git .
+RUN git clone https://github.com/mistercannor/pokemon-showdown-ubl.git .
 
 # Copy the example config to config.js (as mentioned in README)
 RUN cp config/config-example.js config/config.js
